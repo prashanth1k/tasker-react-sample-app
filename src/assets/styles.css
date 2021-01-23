@@ -1,0 +1,33 @@
+.container {
+  margin: 1em;
+  min-width: 20em;
+  max-width: 40em;
+}
+
+.task-meta {
+  color: grey;
+  /* font-size: small; */
+  margin-top: -10px;
+  margin-bottom: 0.5em;
+}
+
+.task-meta img {
+  margin-right: 5px;
+}
+
+form {
+  text-align: left;
+  margin: 10px 0px 10px 0px;
+}
+
+label {
+  font-weight: 700;
+  color: grey;
+}
+input {
+  margin-bottom: 20px;
+}
+
+.card {
+  margin: 10px 0px 10px 0px;
+}
