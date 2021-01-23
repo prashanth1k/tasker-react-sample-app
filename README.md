@@ -1,4 +1,15 @@
-# Getting Started with Create React App
+# Sample Task Management App Using React
+
+This project uses -
+
+1. ReactJS (React Hooks)
+1. Chota CSS
+
+No state management libraries or backend!
+
+See more on [creating a task management app in ReactJS](https://techformist.com/task-management-app-reactjs-2021/).
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
